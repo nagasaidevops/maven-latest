@@ -1,1 +1,1 @@
-# maven-latest
+# maven-project (app)
